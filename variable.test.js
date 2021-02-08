@@ -15,5 +15,5 @@ test('should create a variable named lastName and assign your last name to it', 
 
 test('should create a variable named sayHello and assign a greeting to it', () => {
   expect(sayHello).toBeDefined();
-  expect(sayHello).toEqual("Hello world! My name is ${firstName} ${lastName}. Nice to meet you!");
+  expect(sayHello).toEqual(`Hello world! My name is ${firstName} ${lastName}. Nice to meet you!`);
 });
