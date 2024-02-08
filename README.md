@@ -4,9 +4,9 @@ NOTE: YOU SHOULD NOT CHANGE THE TEST FILE `*.test.js`. IF YOU CHANGE IT, YOU WIL
 
 **TODO: EDIT THIS `README` and ADD YOUR NAME IN THE FOLLOWING FILE:**
 
-**First name:** Trinh
+**First name:**
 
-**Last name:** Nguyen
+**Last name:** 
 
 Open the file `variable.js` and solve all of the `TODO`s specified in that file.
 
