@@ -5,7 +5,7 @@ NOTE: YOU SHOULD NOT CHANGE THE TEST FILE `*.test.js`. IF YOU CHANGE IT, YOU WIL
 
 **TODO: EDIT THIS `README` and ADD YOUR NAME IN THE FOLLOWING FILE:**
 
-**First name:** Trinh 
+**First name:** Trinh
 
 **Last name:** Nguyen
 
