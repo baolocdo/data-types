@@ -6,7 +6,7 @@ let lastName = Gordillo;
 
 // TODO: Create a variable named `sayHello` and build the following string based on the variables
 // above: "Hello world! My name is <firstName> <lastName>. Nice to meet you!". 
-
+// THERE IS A MISSING PART HERE!!!
 
 // DO NOT CHANGE ANYTHING BELOW THIS LINE.
 
