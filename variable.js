@@ -7,7 +7,6 @@ let lastName = 'Nguyen';
 
 // TODO: Create a variable named `sayHello` and build the following string based on the variables
 // above: "Hello world! My name is <firstName> <lastName>. Nice to meet you!". 
-
 let sayHello = 'Hello World! My name is ${firstName} ${lastName}. Nice to meet you!".;
 
 
